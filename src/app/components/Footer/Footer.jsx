@@ -11,8 +11,8 @@ const Footer = () => {
       <div>
         <h3>Contact us</h3>
         <ul>
-          <li>Ayush Sharma - 7004079789</li>
-          <li>Keshav Kumar - 7761882293</li>
+          <li>Gopal Ranjan - 9955960437</li>
+          <li>Rishabh Mishra - 9369769882</li>
           <li>
             <MailOutlineIcon /> advay@nits.ac.in
           </li>
